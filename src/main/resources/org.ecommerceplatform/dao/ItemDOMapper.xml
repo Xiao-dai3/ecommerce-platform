@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.ecommerceplatform.dao.ItemDOMapper">
+    <update id="updateItem">
+        update item_info
+<set>
+        <if test="price != null">
+            price = #{price},
+        </if>
+        <if test="description != null">
+            description = #{description},
+        </if>
+        <if test="sales != null">
+            sales = #{sales},
+        </if>
+        <if test="imgUrl != null">
+            img_url = #{imgUrl}
+        </if>
+        where title=#{title}
+</set>
+    </update>
+</mapper>

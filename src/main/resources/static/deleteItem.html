@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>ecommerce</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
+</head>
+<body style="background-image:url(https://img1.baidu.com/it/u=209763807,2539191806&fm=253&fmt=auto&app=138&f=JPEG?w=835&h=500)">
+<div>
+    <h1 class="p_title">在线商城</h1>
+</div>
+<div class="mdiv">
+    <p class="p_head">删除商品</p>
+    <div class="div_input">
+        商品名<br/>
+        <input class="input" type="text" name="title" id="title">
+    </div>
+    <div style="clear:both;">
+        <button class="button" id="delete" type="submit">删除商品</button>
+    </div>
+    <div style="clear:both;">
+        <a href="admin.html"><button class="button" type="submit">返回</button></a>
+    </div>
+    <!-- <a href="login.html" style="float: right; margin-top: 5%;">登录界面</a> -->
+</div>
+</body>
+<script>
+    jQuery(document).ready(function() {
+        $("#delete").on("click", function() {
+            var title = $("#title").val();
+            if (title == null || title == "") {
+                alert("商品名不能为空");
+                return;
+            }
+            $.ajax({
+                type:"PUT",
+                contentType:"application/x-www-form-urlencoded",
+                url:"http://localhost:8087/item/delete",
+                data:{
+                    "title":title
+                },
+                xhrFields:{withCredentials:true},
+                success:function(data) {
+                    if (data.status == "success") {
+                        alert("删除" + data.data + "个商品成功");
+                    } else {
+                        alert("删除商品失败，因为"+data.data);
+                    }
+                },
+                error:function(data) {
+                    alert("删除商品失败，因为" + data.responseText);
+                }
+            })
+            return false;
+        });
+    });
+</script>
+</html>

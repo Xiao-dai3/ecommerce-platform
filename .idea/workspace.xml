@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4820e8f1-e2f6-454f-8b1b-b62c5b47ef3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day07-code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day09-oop-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day11-集合+学生管理系统-mylist/day11-集合+学生管理系统-mylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day11-集合+学生管理系统-studentsystem/day11-集合+学生管理系统-studentsystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day12-学生管理系统升级版-studentsystem/day12-学生管理系统升级版-studentsystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day13-面向对象进阶（static&amp;继承)-mystatic/day13-面向对象进阶（static&amp;继承)-mystatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day13-面向对象进阶（static&amp;继承）-oop-extends/day13-面向对象进阶（static&amp;继承）-oop-extends.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/.idea/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/final的相关代码/final的相关代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/package包的相关代码/package包的相关代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/代码块的相关代码/代码块的相关代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/多态的相关代码/多态的相关代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/权限修饰符的相关代码/权限修饰符的相关代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/tlias-web-management.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/tlias-web-management.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day01/out/production/day01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day01/out/production/day01/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day08-code/src/com/itheima/test1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day08-code/src/com/itheima/test1/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap/mymap/src/com/itheima/a09rollname/CheatJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap/mymap/src/com/itheima/a09rollname/CheatJFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day31-多线程-mythread/mythread/src/com/itheima/a01threadcase1/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day31-多线程-mythread/mythread/src/com/itheima/a01threadcase1/ThreadDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Respository" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Yu7vdqPyRTxY9FeYRogpHkWZZv" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/word/code-dm/Important project/毕设之网上商城增删改查/ecommerce-platform",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "db96ff26706a1a3d595ecb67266c2d94",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ecommerce-platform" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ecommerce-platform" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ecommerceplatform.App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ecommerceplatform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4820e8f1-e2f6-454f-8b1b-b62c5b47ef3a" name="Changes" comment="" />
+      <created>1701363844500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701363844500</updated>
+      <workItem from="1701363845599" duration="520000" />
+      <workItem from="1710576676685" duration="1474000" />
+      <workItem from="1710655690020" duration="1206000" />
+      <workItem from="1710723600906" duration="440000" />
+      <workItem from="1711033184015" duration="494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ecommerceplatform/controller/ItemController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
