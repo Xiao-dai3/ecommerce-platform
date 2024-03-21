@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4820e8f1-e2f6-454f-8b1b-b62c5b47ef3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day07-code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day09-oop-test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day11-集合+学生管理系统-mylist/day11-集合+学生管理系统-mylist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day11-集合+学生管理系统-studentsystem/day11-集合+学生管理系统-studentsystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day12-学生管理系统升级版-studentsystem/day12-学生管理系统升级版-studentsystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day13-面向对象进阶（static&amp;继承)-mystatic/day13-面向对象进阶（static&amp;继承)-mystatic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day13-面向对象进阶（static&amp;继承）-oop-extends/day13-面向对象进阶（static&amp;继承）-oop-extends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/.idea/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/final的相关代码/final的相关代码.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/package包的相关代码/package包的相关代码.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/代码块的相关代码/代码块的相关代码.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/多态的相关代码/多态的相关代码.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day14-面向对象进阶（多态&amp;包&amp;final&amp;权限修饰符&amp;代码块）/权限修饰符的相关代码/权限修饰符的相关代码.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/tlias-web-management.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/2023新版javaWeb开发教程/day10-SpringBootWeb案例/tlias-web-management/tlias-web-management/tlias-web-management.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day01/out/production/day01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day01/out/production/day01/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day08-code/src/com/itheima/test1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day08-code/src/com/itheima/test1/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/out/production/day10-字符串-mystring/com/itheima/stringbuilderdemo/StringBuilderDemo6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day10-字符串-mystring/src/com/itheima/stringbuilderdemo/StringBuilderDemo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap/mymap/src/com/itheima/a09rollname/CheatJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day24-集合（Map&amp;可变参数&amp;集合工具类）-mymap/mymap/src/com/itheima/a09rollname/CheatJFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day31-多线程-mythread/mythread/src/com/itheima/a01threadcase1/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/java黑马入门到起飞/day31-多线程-mythread/mythread/src/com/itheima/a01threadcase1/ThreadDemo.java" afterDir="false" />
+    <list default="true" id="4820e8f1-e2f6-454f-8b1b-b62c5b47ef3a" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/戴程序员0.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,12 +93,25 @@
       <workItem from="1710576676685" duration="1474000" />
       <workItem from="1710655690020" duration="1206000" />
       <workItem from="1710723600906" duration="440000" />
-      <workItem from="1711033184015" duration="1569000" />
+      <workItem from="1711033184015" duration="2441000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1711035491026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711035491026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
