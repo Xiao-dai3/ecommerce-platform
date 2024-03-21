@@ -69,6 +69,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
     "spring.configuration.checksum": "db96ff26706a1a3d595ecb67266c2d94",
     "vue.rearranger.settings.migration": "true"
@@ -119,7 +120,7 @@
       <workItem from="1710576676685" duration="1474000" />
       <workItem from="1710655690020" duration="1206000" />
       <workItem from="1710723600906" duration="440000" />
-      <workItem from="1711033184015" duration="494000" />
+      <workItem from="1711033184015" duration="1256000" />
     </task>
     <servers />
   </component>
